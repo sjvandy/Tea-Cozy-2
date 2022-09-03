@@ -44,7 +44,7 @@ a {
     display: flex;
     max-width: 1200px;
     min-height: 700px;
-    background-image: url("/images/img-mission-background.jpg");
+    background-image: url("images/img-mission-background.jpg");
     background-size: cover;
     background-position: center;
     margin: 69px auto 0;
@@ -91,7 +91,7 @@ a {
 #locations {    
     height: 600px;
     max-width: 1200px;        
-    background-image: url("/images/img-locations-background.jpg");       
+    background-image: url("images/img-locations-background.jpg");       
     margin: 0 auto;           
     border-radius: 15px;
     display: flex;
